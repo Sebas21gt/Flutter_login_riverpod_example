@@ -40,13 +40,13 @@ dependencies:
 - Clona el Repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/flutter_login_riverpod_example.git
+git clone https://github.com/tu-usuario/Flutter_login_riverpod_example.git
 ```
 
 - Navega al directorio del proyecto:
 
 ```bash
-cd flutter-auth-example
+cd Flutter_login_riverpod_example
 ```
 
 - Instala las dependencias:
